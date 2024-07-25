@@ -30,12 +30,9 @@ python -m uvicorn app:app --reload
 ```
 - Follow the link that is provided on your screen and the Fast API will start running on you local host
 - Click the link on your browser tab and add '/docs' at the end of your link
-### Screenshots
+### Video Recording
 
-![Screenshot 2024-07-26 000331](https://github.com/user-attachments/assets/a7435e08-25e9-4604-bcf7-675bb2ea5f28)
 
-![Screenshot 2024-07-26 000356](https://github.com/user-attachments/assets/74a2c03c-0f5f-4782-964b-ab4f95398333)
-![Screenshot 2024-07-26 000431](https://github.com/user-attachments/assets/269f0335-caea-44a9-87a6-08a1a976cb19)
 
-![Screenshot 2024-07-26 000447](https://github.com/user-attachments/assets/c462eb24-e68a-4df4-8210-97689a177173)
+https://github.com/user-attachments/assets/a10f8bb9-805f-4e55-9f77-2ef46c99c81e
 
