@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-with-Flask-API
+# Credit-Card-Fraud-Detection-with-Fast-API
 This repository helps us create a machine learning model which predicts fraud credit card transactions and we dedployed it using Flask API
 ## Dataset
 - The dataset for the machine learning part can be found on https://www.kaggle.com/datasets/kartik2112/fraud-detection
@@ -9,13 +9,13 @@ Before you proceed with the setup, ensure that you have the following prerequisi
 - [Python](https://www.python.org/)(version 3.7 or higher)
 - [Pip](https://pip.pypa.io/en/stable/)
 - [Git](https://git-scm.com/)
-## Clone Credit-Card-Fraud-Detection-with-Flask-API Repository
+## Clone Credit-Card-Fraud-Detection-with-Fast-API Repository
 1. Open your terminal or command prompt.
 2. Navigate to the directory where you want to clone this repository.
 3. Run the following command to clone the repository:
 
 ```
-git clone https://github.com/Srijansarkar17/Credit-Card-Fraud-Detection-with-Flask-API.git
+git clone https://github.com/Srijansarkar17/Credit-Card-Fraud-Detection-with-Fast-API.git
 ```
 ### Install the required dependencies
 ```
